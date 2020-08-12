@@ -1,0 +1,21 @@
+body{
+    background-color: darkgoldenrod;
+}
+
+
+
+.one{
+    text-align: center;
+    color: black;
+}
+ fieldset{
+     margin-top: 6px;
+ }
+ .btn{
+     margin-top: 10px;
+     color: black;
+     border-radius: 5px;
+     height: 25px;
+     background-color: cornsilk;
+     font-weight: bold;
+ }
